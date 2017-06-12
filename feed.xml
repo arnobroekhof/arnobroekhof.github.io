@@ -6,8 +6,8 @@
     <atom:link href="https://arnobroekhof.github.io/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Mon, 12 Jun 2017 21:59:47 +0200</pubDate>
-    <lastBuildDate>Mon, 12 Jun 2017 21:59:47 +0200</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2017 22:14:41 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2017 22:14:41 +0200</lastBuildDate>
 
     
     <item>
@@ -121,6 +121,17 @@ public class Oven {
 
 &lt;p&gt;In consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere 
 libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&lt;/p&gt;
+
+&lt;script async src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
+&lt;!-- arnobroekhof.github.io --&gt;
+&lt;ins class=&quot;adsbygoogle&quot;
+     style=&quot;display:block&quot;
+     data-ad-client=&quot;ca-pub-4608617738763384&quot;
+     data-ad-slot=&quot;5883480766&quot;
+     data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
+&lt;script&gt;
+(adsbygoogle = window.adsbygoogle || []).push({});
+&lt;/script&gt;
 
 	  </description>
     </item>
